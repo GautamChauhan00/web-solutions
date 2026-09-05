@@ -44,7 +44,7 @@ MERN Stack management application focused on cold-room operations, inventory and
 
 ## 📸 Screenshots
 
-Screenshots of the website are included in this repository to demonstrate the UI and responsive design.
+
 
 ## 👨‍💻 Developer
 
